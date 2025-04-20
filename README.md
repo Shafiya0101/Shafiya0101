@@ -1,4 +1,4 @@
-# Hi, I'm Shafiya 📊
+# Hi, I'm Shafiya 
 
 I'm learning Python for Data Science, focusing on data analysis and machine learning.
 

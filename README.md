@@ -59,7 +59,7 @@
 
    I love working with tools like Python, R, TensorFlow, and Power BI, which I’ve used in projects like my **Resume Extractor** (a Flask app using Mistral API) and **Chess Piece Detection** with YOLOv5 and Roboflow. Beyond tech, I’m committed to giving back—I volunteer with Linker in Paris to combat food insecurity, where I assist in food distribution and support community initiatives.
 
-   I thrive on collaboration, adaptability, and continuous learning. If you’re excited about AI, data science, or creating positive change, let’s connect—I’d love to chat! 🌟
+   I thrive on collaboration, adaptability, and continuous learning. If you’re excited about AI, data science, or creating positive change, let’s connect, I’d love to chat! 
 </p>
 
 <br>

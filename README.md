@@ -12,7 +12,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Master’s+Student+in+AI+and+Data+Science;Passionate+About+Machine+Learning+and+Ethical+AI+Solutions;Volunteering+to+Combat+Food+Insecurity)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Master’s+Student+in+AI+and+Data+Science;Passionate+About+Machine+Learning+and+Ethical+AI+Solutions)](https://git.io/typing-svg)
 
 
 

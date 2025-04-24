@@ -12,9 +12,11 @@
 </p>
 
 <!-- ///////// ANIMATED BIO TEXT ///////// -->
-<p align="justify">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Master%E2%80%99s+Student+in+AI+and+Data+Science;Passionate+About+Machine+Learning+and+Ethical+AI+Solutions;Volunteering+to+Combat+Food+Insecurity)](https://git.io/typing-svg)
+<p align="justify">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=36BCF7&width=435&lines=Master%E2%80%99s+Student+in+AI+and+Data+Science;Passionate+About+Machine+Learning+and+Ethical+AI+Solutions;Volunteering+to+Combat+Food+Insecurity" alt="Typing SVG" />
+  </a>
 </p>
-
 <!-- ///////// PROJECTS SECTION ///////// -->
 <h2 align="center">My Recent Projects 💻</h2>
 <br />

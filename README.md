@@ -12,7 +12,7 @@
 </p>
 
 <!-- ///////// ANIMATED BIO TEXT ///////// -->
-<p align="justify">[![Typing SVG](https://readme-typing-svg.herokuapp.com color=%2336BCF7&lines=Master’s+Student+in+AI+and+Data+Science;Passionate+About+Machine+Learning+and+Ethical+AI+Solutions;Volunteering+to+Combat+Food+Insecurity)](https://git.io/typing-svg)
+<p align="justify">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Master%E2%80%99s+Student+in+AI+and+Data+Science;Passionate+About+Machine+Learning+and+Ethical+AI+Solutions;Volunteering+to+Combat+Food+Insecurity)](https://git.io/typing-svg)
 </p>
 
 <!-- ///////// PROJECTS SECTION ///////// -->
@@ -24,8 +24,8 @@
   <tr>
     <!-- Project 1 -->
     <td align="center" style="padding: 0px;">
-      <img src="./resume-extractor.png" alt="Resume Extractor" width="350" height="180" style="margin-bottom: 5px;" />
-      <a href="https://github.com/Shafiya0101" target="_blank">
+      <img src="resume-extractor.png" alt="Resume Extractor" width="350" height="180" style="margin-bottom: 5px;" />
+      <a href="https://github.com/Shafiya0101/Resume-Extractor" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shafiya0101&repo=Resume-Extractor&theme=tokyonight" width="400" height="150" style="margin-bottom: 5px;" />
       </a>
       <p style="margin: 0; font-weight: bold;">Resume Extractor</p>
@@ -33,7 +33,7 @@
     </td>
     <!-- Project 2 -->
     <td align="center" style="padding: 0px;">
-      <img src="./chess-detection.png" alt="Chess Piece Detection" width="350" height="180" style="margin-bottom: 5px;" />
+      <img src="chess-detection.png" alt="Chess Piece Detection" width="350" height="180" style="margin-bottom: 5px;" />
       <a href="https://github.com/Shafiya0101/Chess-Piece-Detection" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shafiya0101&repo=Chess-Piece-Detection&theme=tokyonight" width="400" height="150" style="margin-bottom: 5px;" />
       </a>
@@ -42,8 +42,8 @@
     </td>
     <!-- Project 3 -->
     <td align="center" style="padding: 0px;">
-      <img src="./credit-card-analysis.png" alt="Credit Card Analysis Dashboards" width="350" height="180" style="margin-bottom: 5px;" />
-      <a href="https://github.com/Shafiya0101" target="_blank">
+      <img src="credit-card-analysis.png" alt="Credit Card Analysis Dashboards" width="350" height="180" style="margin-bottom: 5px;" />
+      <a href="https://github.com/Shafiya0101/Credit-Card-Analysis" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shafiya0101&repo=Credit-Card-Analysis&theme=tokyonight" width="400" height="150" style="margin-bottom: 5px;" />
       </a>
       <p style="margin: 0; font-weight: bold;">Credit Card Analysis Dashboards</p>
@@ -104,7 +104,7 @@
   <a href="https://cloud.google.com/" target="_blank">
     <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?logo=google-cloud&logoColor=white">
   </a>
-  <a href="https://azure.microsoft.com/",
+  <a href="https://azure.microsoft.com/" target="_blank">
     <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?logo=microsoft-azure&logoColor=white">
   </a>
 </p>

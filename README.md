@@ -57,9 +57,9 @@
 <p>
    Hi there! I’m Shafiya, a Master’s student in AI and Data Science at Aivancity School in Paris, France, with a background in Physics, Chemistry, and Mathematics from Bengaluru North University. I’m deeply passionate about leveraging data to create impactful, ethical solutions through machine learning, deep learning, and data analysis. My journey has taken me from building feature extraction tools for seizure detection at AURA to optimizing AI pipelines at NeuralTeks, and even boosting sales through data analysis at AR Cars.
 
-   I love working with tools like Python, R, TensorFlow, and Power BI, which I’ve used in projects like my **Resume Extractor** (a Flask app using Mistral API) and **Chess Piece Detection** with YOLOv5 and Roboflow. Beyond tech, I’m committed to giving back—I volunteer with Linker in Paris to combat food insecurity, where I assist in food distribution and support community initiatives.
+   I love working with tools like Python, R, TensorFlow, and Power BI, which I’ve used in projects like my **Resume Extractor** (a Flask app using Mistral API) and **Chess Piece Detection** with YOLOv5 and Roboflow. Beyond tech, I’m committed to giving back, I volunteer with Linker in Paris to combat food insecurity, where I assist in food distribution and support community initiatives.
 
-   I thrive on collaboration, adaptability, and continuous learning. If you’re excited about AI, data science, or creating positive change, let’s connect—I’d love to chat! 🌟
+   I thrive on collaboration, adaptability, and continuous learning. If you’re excited about AI, data science, or creating positive change, let’s connect—I’d love to chat! 
 </p>
 
 <br>

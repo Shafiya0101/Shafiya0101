@@ -55,7 +55,7 @@
 </table>
 
 <!-- ///////// ABOUT ME ///////// -->  
-<h2 align="center">Unveiling Insights Through Data 🌐</h2>
+<h2 align="center">About Me </h2>
 <p>
    Hi there! I’m Shafiya, a Master’s student in AI and Data Science at Aivancity School in Paris, France, with a background in Physics, Chemistry, and Mathematics from Bengaluru North University. I’m deeply passionate about leveraging data to create impactful, ethical solutions through machine learning, deep learning, and data analysis. My journey has taken me from building feature extraction tools for seizure detection at AURA to optimizing AI pipelines at NeuralTeks, and even boosting sales through data analysis at AR Cars.
 
@@ -71,7 +71,7 @@
 <h2 align="center">🛠️ My Favorite Tools</h2>
 
 <!-- Programming Languages -->
-<h3 align="left">👨‍💻 Programming Languages</h3>
+<h3 align="left"> Programming Languages</h3>
 <p>
   <a href="https://www.python.org/" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white">
@@ -82,7 +82,7 @@
 </p>
 
 <!-- Frameworks and Libraries -->
-<h3 align="left">🧰 Frameworks and Libraries</h3>
+<h3 align="left"> Frameworks and Libraries</h3>
 <p>
   <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
   <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-%23150458.svg?logo=pandas&logoColor=white"></a>
@@ -97,7 +97,7 @@
 </p>
 
 <!-- Databases and Cloud Hosting -->
-<h3 align="left">🗄️ Databases and Cloud Hosting</h3>
+<h3 align="left"> Databases and Cloud Hosting</h3>
 <p>
   <a href="https://www.mysql.com/" target="_blank">
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white">
@@ -112,7 +112,7 @@
 </p>
 
 <!-- Software and Tools -->
-<h3 align="left">💻 Software and Tools</h3>
+<h3 align="left"> Software and Tools</h3>
 <p>
   <a href="https://git-scm.com/" target="_blank">
     <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white">
@@ -127,7 +127,7 @@
 <br>
 
 <!-- ///////// GITHUB STATS ///////// -->
-<h2 align="center">Github Stats 📈</h2>
+<h2 align="center">Github Stats </h2>
 
 <div align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 20px;">
   <a href="https://github.com/Shafiya0101">

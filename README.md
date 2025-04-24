@@ -1,135 +1,147 @@
+<!-- ///////// NAME AND BADGES ///////// -->
+<p>
+  <h1 align="justify"><b>Hiii, I'm Shafiya Kausar!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+   <p align="justify">
+      <a href="https://linkedin.com/in/kausarshafiya">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a> 
+      <a href="https://github.com/Shafiya0101" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+   </p>
+</p>
 
+<!-- ///////// ANIMATED BIO TEXT ///////// -->
+<p align="justify">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Master’s+Student+in+AI+and+Data+Science;Passionate+About+Machine+Learning+and+Ethical+AI+Solutions;Volunteering+to+Combat+Food+Insecurity)](https://git.io/typing-svg)
+</p>
 
-  Hiii, I'm Shafiya Kausar!
-   
-      
-        
-       
-      
-        
-      
-   
+<!-- ///////// PROJECTS SECTION ///////// -->
+<h2 align="center">My Recent Projects 💻</h2>
+<br />
 
+<!-- Table layout for 3 projects -->
+<table align="center">
+  <tr>
+    <!-- Project 1 -->
+    <td align="center" style="padding: 0px;">
+      <img src="./resume-extractor.png" alt="Resume Extractor" width="350" height="180" style="margin-bottom: 5px;" />
+      <a href="https://github.com/Shafiya0101" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shafiya0101&repo=Resume-Extractor&theme=tokyonight" width="400" height="150" style="margin-bottom: 5px;" />
+      </a>
+      <p style="margin: 0; font-weight: bold;">Resume Extractor</p>
+      <p style="margin: 0;">A Flask UI to extract resume skills using Mistral API.</p>
+    </td>
+    <!-- Project 2 -->
+    <td align="center" style="padding: 0px;">
+      <img src="./chess-detection.png" alt="Chess Piece Detection" width="350" height="180" style="margin-bottom: 5px;" />
+      <a href="https://github.com/Shafiya0101/Chess-Piece-Detection" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shafiya0101&repo=Chess-Piece-Detection&theme=tokyonight" width="400" height="150" style="margin-bottom: 5px;" />
+      </a>
+      <p style="margin: 0; font-weight: bold;">Chess Piece Detection</p>
+      <p style="margin: 0;">A YOLOv5 model trained with Roboflow to detect and classify chess pieces in real time.</p>
+    </td>
+    <!-- Project 3 -->
+    <td align="center" style="padding: 0px;">
+      <img src="./credit-card-analysis.png" alt="Credit Card Analysis Dashboards" width="350" height="180" style="margin-bottom: 5px;" />
+      <a href="https://github.com/Shafiya0101" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shafiya0101&repo=Credit-Card-Analysis&theme=tokyonight" width="400" height="150" style="margin-bottom: 5px;" />
+      </a>
+      <p style="margin: 0; font-weight: bold;">Credit Card Analysis Dashboards</p>
+      <p style="margin: 0;">Power BI dashboards for analyzing revenue trends and customer insights.</p>
+    </td>
+  </tr>
+</table>
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Master’s+Student+in+AI+and+Data+Science;Passionate+About+Machine+Learning+and+Ethical+AI+Solutions)](https://git.io/typing-svg)
-
-
-
-My Recent Projects 💻
-
-
-
-
-  
-    
-    
-      
-      
-        
-      
-      Resume Extractor
-      A Flask UI to extract resume skills using Mistral API.
-    
-    
-    
-      
-      
-        
-      
-      Chess Piece Detection
-      A YOLOv5 model trained with Roboflow to detect and classify chess pieces in real time.
-    
-    
-    
-      
-      
-        
-      
-      Credit Card Analysis Dashboards
-      Power BI dashboards for analyzing revenue trends and customer insights.
-    
-  
-
-
-  
-Unveiling Insights Through Data 🌐
-
+<!-- ///////// ABOUT ME ///////// -->  
+<h2 align="center">Unveiling Insights Through Data 🌐</h2>
+<p>
    Hi there! I’m Shafiya, a Master’s student in AI and Data Science at Aivancity School in Paris, France, with a background in Physics, Chemistry, and Mathematics from Bengaluru North University. I’m deeply passionate about leveraging data to create impactful, ethical solutions through machine learning, deep learning, and data analysis. My journey has taken me from building feature extraction tools for seizure detection at AURA to optimizing AI pipelines at NeuralTeks, and even boosting sales through data analysis at AR Cars.
 
-   I love working with tools like Python, R, TensorFlow, and Power BI, which I’ve used in projects like my Resume Extractor (a Flask app using Mistral API) and Chess Piece Detection with YOLOv5 and Roboflow. Beyond tech, I’m committed to giving back—I volunteer with Linker in Paris to combat food insecurity, where I assist in food distribution and support community initiatives.
+   I love working with tools like Python, R, TensorFlow, and Power BI, which I’ve used in projects like my **Resume Extractor** (a Flask app using Mistral API) and **Chess Piece Detection** with YOLOv5 and Roboflow. Beyond tech, I’m committed to giving back—I volunteer with Linker in Paris to combat food insecurity, where I assist in food distribution and support community initiatives.
+
    I thrive on collaboration, adaptability, and continuous learning. If you’re excited about AI, data science, or creating positive change, let’s connect—I’d love to chat! 🌟
+</p>
 
+<br>
+<br>
 
+<!-- ///////// LANGUAGES AND TOOLS ///////// -->  
+<h2 align="center">🛠️ My Favorite Tools</h2>
 
+<!-- Programming Languages -->
+<h3 align="left">👨‍💻 Programming Languages</h3>
+<p>
+  <a href="https://www.python.org/" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white">
+  </a>
+  <a href="https://www.r-project.org/" target="_blank">
+    <img alt="R" src="https://img.shields.io/badge/R-%23276DC3.svg?logo=R&logoColor=white">
+  </a>
+</p>
 
+<!-- Frameworks and Libraries -->
+<h3 align="left">🧰 Frameworks and Libraries</h3>
+<p>
+  <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
+  <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-%23150458.svg?logo=pandas&logoColor=white"></a>
+  <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-%23013243.svg?logo=numpy&logoColor=white"></a>
+  <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%230076B5.svg?logo=python&logoColor=white"></a>
+  <a href="https://flask.palletsprojects.com/" target="_blank">
+    <img alt="Flask" src="https://img.shields.io/badge/Flask-%23000.svg?logo=flask&logoColor=white">
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-%232496ED.svg?logo=docker&logoColor=white">
+  </a>
+</p>
 
-  
-🛠️ My Favorite Tools
+<!-- Databases and Cloud Hosting -->
+<h3 align="left">🗄️ Databases and Cloud Hosting</h3>
+<p>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white">
+  </a>
+  <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
+  <a href="https://cloud.google.com/" target="_blank">
+    <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?logo=google-cloud&logoColor=white">
+  </a>
+  <a href="https://azure.microsoft.com/",
+    <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?logo=microsoft-azure&logoColor=white">
+  </a>
+</p>
 
+<!-- Software and Tools -->
+<h3 align="left">💻 Software and Tools</h3>
+<p>
+  <a href="https://git-scm.com/" target="_blank">
+    <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white">
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white">
+  </a>
+  <a href="#"><img alt="ML Flow" src="https://img.shields.io/badge/ML_Flow-%2300BFFF.svg?logo=mlflow&logoColor=white"></a>
+</p>
 
-👨‍💻 Programming Languages
+<br>
+<br>
 
-  
-    
-  
-  
-    
-  
+<!-- ///////// GITHUB STATS ///////// -->
+<h2 align="center">Github Stats 📈</h2>
 
-
-
-🧰 Frameworks and Libraries
-
-  
-  
-  
-  
-  
-    
-  
-  
-    
-  
-
-
-
-🗄️ Databases and Cloud Hosting
-
-  
-    
-  
-  
-  
-    
-  
-  
-    
-  
-
-
-
-💻 Software and Tools
-
-  
-    
-  
-  
-    
-  
-  
-
-
-
-
-
-
-Github Stats 📈
-
-
-  
-    
-  
-  
-    
-  
+<div align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 20px;">
+  <a href="https://github.com/Shafiya0101">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=Shafiya0101&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" 
+      alt="GitHub Stats" 
+      width="400"
+      height="200" 
+    />
+  </a>
+  <a href="https://github.com/Shafiya0101">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shafiya0101&hide=html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" 
+      alt="Top Languages" 
+      width="400"
+      height="200" 
+    />
+  </a>
+</div>

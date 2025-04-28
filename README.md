@@ -1,12 +1,13 @@
 <!-- ///////// NAME AND BADGES ///////// -->
+<!-- ///////// NAME AND BADGES ///////// -->
 <p>
   <h1 align="justify"><b>Hiii, I'm Shafiya Kausar!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
    <p align="justify">
       <a href="https://linkedin.com/in/kausarshafiya">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
       </a> 
-      <a href="https://github.com/Shafiya0101" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
+      <a href="https://yourportfolio.com" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=portfolio&logoColor=white" />
       </a>
    </p>
 </p>

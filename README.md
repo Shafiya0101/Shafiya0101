@@ -17,42 +17,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=36BCF7&width=435&lines=Master%E2%80%99s+Student+in+AI+and+Data+Science;Passionate+About+Machine+Learning+and+Ethical+AI+Solutions" alt="Typing SVG" />
   </a>
 </p>
-<!-- ///////// PROJECTS SECTION ///////// -->
-<h2 align="center">My Recent Projects 💻</h2>
-<br />
-
-<!-- Table layout for 3 projects -->
-<table align="center">
-  <tr>
-    <!-- Project 1 -->
-    <td align="center" style="padding: 0px;">
-      <img src="resume-extractor.png" alt="Resume Extractor" width="350" height="180" style="margin-bottom: 5px;" />
-      <a href="https://github.com/Shafiya0101/Resume-Extractor" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shafiya0101&repo=Resume-Extractor&theme=tokyonight" width="400" height="150" style="margin-bottom: 5px;" />
-      </a>
-      <p style="margin: 0; font-weight: bold;">Resume Extractor</p>
-      <p style="margin: 0;">A Flask UI to extract resume skills using Mistral API.</p>
-    </td>
-    <!-- Project 2 -->
-    <td align="center" style="padding: 0px;">
-      <img src="chess-detection.png" alt="Chess Piece Detection" width="350" height="180" style="margin-bottom: 5px;" />
-      <a href="https://github.com/Shafiya0101/Chess-Piece-Detection" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shafiya0101&repo=Chess-Piece-Detection&theme=tokyonight" width="400" height="150" style="margin-bottom: 5px;" />
-      </a>
-      <p style="margin: 0; font-weight: bold;">Chess Piece Detection</p>
-      <p style="margin: 0;">A YOLOv5 model trained with Roboflow to detect and classify chess pieces in real time.</p>
-    </td>
-    <!-- Project 3 -->
-    <td align="center" style="padding: 0px;">
-      <img src="credit-card-analysis.png" alt="Credit Card Analysis Dashboards" width="350" height="180" style="margin-bottom: 5px;" />
-      <a href="https://github.com/Shafiya0101/Credit-Card-Analysis" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shafiya0101&repo=Credit-Card-Analysis&theme=tokyonight" width="400" height="150" style="margin-bottom: 5px;" />
-      </a>
-      <p style="margin: 0; font-weight: bold;">Credit Card Analysis Dashboards</p>
-      <p style="margin: 0;">Power BI dashboards for analyzing revenue trends and customer insights.</p>
-    </td>
-  </tr>
-</table>
 
 <!-- ///////// ABOUT ME ///////// -->  
 <h2 align="center">About Me </h2>
